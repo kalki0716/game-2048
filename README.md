@@ -20,3 +20,4 @@ Game 2048 is a deployment of the 2048 game on an Amazon EKS cluster using AWS se
 2. Deploy the app using:
    ```bash
    kubectl apply -f deploy.yaml
+kubectl apply -f service.yaml
